@@ -1,6 +1,6 @@
 # Mini Calculator
 
-A simple calculator project made by Graciana Clarisa while in high school.  
+A simple calculator project made by Graciana Clarisa as a high school student.  
 Built using Python to practice basic programming logic.
 
 ## Features
@@ -9,8 +9,5 @@ Built using Python to practice basic programming logic.
 - Multiplication
 - Division
 
-## How to Run
-1. Download calculator.py
-2. Run it using Python 3:
-   `bash
-   python calculator.py
+## How to Use
+Run the calculator.py using Python 3 and follow the prompts.
